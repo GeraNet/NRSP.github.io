@@ -1,0 +1,60 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:linear-gradient(135deg,#0f172a,#1e293b);
+    color:white;
+}
+
+header{
+    background:#111827;
+    padding:20px;
+    text-align:center;
+    font-size:24px;
+    font-weight:bold;
+}
+
+nav{
+    text-align:center;
+    padding:15px;
+    background:#0f172a;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+    font-weight:bold;
+}
+
+.lang-btn{
+    padding:6px 10px;
+    margin:5px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.container{
+    max-width:1000px;
+    margin:auto;
+    padding:30px;
+}
+
+.card{
+    background:#1e293b;
+    padding:20px;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+h2{
+    border-bottom:1px solid #334155;
+    padding-bottom:5px;
+}
+
+footer{
+    text-align:center;
+    padding:20px;
+    margin-top:40px;
+    background:#111827;
+}
